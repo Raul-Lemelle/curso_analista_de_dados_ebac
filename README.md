@@ -1,4 +1,4 @@
-**Resolução dos Exercícios do Curso de Analista de Dados.**
+**Resolução dos Exercícios do Curso de Analista de Dados - Escola Britânica de Artes Criativas e Tecnologia (EBAC).**
 
 Neste repositório, compartilho a resolução dos exercícios do curso de Analista de Dados. Todos os desafios foram superados por mim, utilizando não apenas os conhecimentos adquiridos durante o curso, mas também aplicando diversas ferramentas externas.
 
